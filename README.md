@@ -76,7 +76,7 @@ dftrain['sex'].value_counts().plot(kind='barh')
 
 
 
-![png](output_6_1.png)
+![png](/img/output_6_1.png)
 
 
 
