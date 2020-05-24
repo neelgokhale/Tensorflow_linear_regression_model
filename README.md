@@ -108,7 +108,7 @@ pd.concat([dftrain, y_train], axis=1).groupby('sex')['survived'].mean().plot(kin
 
 
 
-![png](output_8_1.png)
+![png](/img/output_8_1.png)
 
 
 ## Categorizing & Numerating Dataset
